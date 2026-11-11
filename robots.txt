@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /vendas
+Disallow: /vendas.html
+Sitemap: https://love10.com.br/sitemap.xml
