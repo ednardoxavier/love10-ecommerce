@@ -7,6 +7,10 @@
     {
       "source": "/vendas",
       "destination": "/vendas.html"
+    },
+    {
+      "source": "/historico",
+      "destination": "/historico.html"
     }
   ]
 }
